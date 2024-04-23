@@ -40,7 +40,7 @@ const ResponsiveDesignStyled = styled.div`
     .box2 {
         border-radius: 40px;
     }
-    .box2 {
+    .box3 {
         border-radius: 100px;
     }
     @media ${breakpoints.isMediumAndUp} {

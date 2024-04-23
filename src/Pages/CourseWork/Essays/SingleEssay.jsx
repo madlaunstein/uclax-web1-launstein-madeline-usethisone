@@ -20,7 +20,8 @@ SingleEssay.propTypes = {
 
 const SingleEssayStyled = styled.div`
     margin: 20px 0px;
-    border: solid 2px #034444 h3 {
+    border: solid 2px #034444;
+    h3 {
         background-color: #034444;
         color: white;
         font-size: 20px;
